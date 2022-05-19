@@ -945,8 +945,6 @@ class dsl_gui(QtWidgets.QMainWindow):
 
         dialog.accept()
     
-        
-
 
 class dsl(QtCore.QThread, dsl):
     """
